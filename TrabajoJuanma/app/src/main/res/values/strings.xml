@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TrabajoJuanma</string>
+    <string name="Aboutus_title">Acerca De</string>
+    <string name="Aboutus_text">Proyecto creado por: Francisco Siles España y Miguel Blanco aplicacion libre uso</string>
 </resources>

@@ -274,6 +274,7 @@ fun TrabajoJuanmaTheme(
   MaterialTheme(
     colorScheme = colorScheme,
     typography = AppTypography,
+      shapes =misFormas,
     content = content
   )
 }
