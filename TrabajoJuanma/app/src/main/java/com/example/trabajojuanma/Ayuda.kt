@@ -40,7 +40,7 @@ fun Ayuda(){
             )
 
         Image(
-            painter = painterResource(id = R.drawable.torneojuegos),
+            painter = painterResource(id = R.drawable.prueba),
             contentDescription = "torneo",
             modifier =Modifier.size(300.dp)
                 .clip(MaterialTheme.shapes.large)
