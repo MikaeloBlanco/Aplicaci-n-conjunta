@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TrabajoJuanma</string>
+    <string name="Aboutus_title">Acerca De</string>
+    <string name="Aboutus_text">Proyecto creado por: Francisco Siles España y Miguel Blanco aplicacion libre uso</string>
+    <string name="Help_title">Ayuda</string>
+    <string name="Help_text">
+        El hotel es de 3 estrellas, en un área bastante atractíva a nivel turístico cerca de la zona antigua de la ciudad. Con buffet de día y noche, habitaciones bien amuebladas y un aislamiento compacto, para cualquier momento del año.
+    </string>
 </resources>

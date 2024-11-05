@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             TrabajoJuanmaTheme {
                 AcercaDe()
+                Ayuda()
                 }
             }
         }
