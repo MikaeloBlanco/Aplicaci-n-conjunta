@@ -2,4 +2,14 @@
     <string name="app_name">TrabajoJuanma</string>
     <string name="Aboutus_title">Acerca De</string>
     <string name="Aboutus_text">Proyecto creado por: Francisco Siles España y Miguel Blanco aplicacion libre uso</string>
+    <string name="Help_title">Ayuda</string>
+    <string name="Help_text">
+        El hotel es de 3 estrellas, en un área bastante atractíva a nivel turístico cerca de la zona antigua de la ciudad. Con buffet de día y noche, habitaciones bien amuebladas y un aislamiento compacto, para cualquier momento del año.
+    </string>
+    <string name="Configuracion_Header">
+        Bienvenido al menu de configuración de su estancia. Puede seleccionar las diferentes comodidades o el numero de habitaciones que usted desee alquilar, sea para una o varias noches. Tiene disponible desde las más baratas habitaciones con las funciones básicas, hasta las lujosas habitaciones con los mejores complementos.
+        Además, podrá elegir los servicios que usted desee obtener. Muchas gracias por elegirnos como su hotel en Málaga.
+    </string>
+    <string name="select_people">Seleccione el número de personas:</string>
+    <string name="select_days">Seleccione el número de días:</string>
 </resources>

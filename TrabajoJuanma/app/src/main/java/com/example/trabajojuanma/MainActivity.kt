@@ -26,7 +26,10 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             TrabajoJuanmaTheme {
+                Configuracion()
+                /*Menu()
                 AcercaDe()
+                Ayuda()*/
                 }
             }
         }

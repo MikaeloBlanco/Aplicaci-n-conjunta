@@ -1,9 +1,9 @@
 package com.example.trabajojuanma.ui.theme
 import androidx.compose.ui.graphics.Color
 
-val primaryLight = Color(0xFF4C662B)
+val primaryLight = Color(0xFF7AAB34)
 val onPrimaryLight = Color(0xFFFFFFFF)
-val primaryContainerLight = Color(0xFFA9EE57)
+val primaryContainerLight = Color(0xFFC5EABA)
 val onPrimaryContainerLight = Color(0xFF102000)
 val secondaryLight = Color(0xFF586249)
 val onSecondaryLight = Color(0xFFFFFFFF)

@@ -3,4 +3,13 @@
     <string name="app_name">TrabajoJuanma</string>
     <string name="Aboutus_title">About us</string>
     <string name="Aboutus_text">Project created by: Francisco Siles España and Miguel Blanco aplication copyright left</string>
+    <string name="Help_title">Help</string>
+    <string name="Help_text">
+        We are a 3 star-hotel, in a very atractive zone for tourists near the old town. With a day and night buffet, well-outfitted rooms and compact isolation, for any time of the year
+    </string>
+    <string name="Configuracion_Header">
+
+    </string>
+    <string name="select_people">Seleccione el número de personas:</string>
+    <string name="select_days">Seleccione el número de días:</string>
 </resources>
